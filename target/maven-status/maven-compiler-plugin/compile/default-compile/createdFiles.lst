@@ -1,0 +1,12 @@
+RoomSystem\MeetingRoomStatusRepository.class
+RoomSystem\MeetingRoomStatusViewHandler.class
+RoomSystem\RoomRegistered.class
+RoomSystem\AbstractEvent.class
+RoomSystem\ReservationCanceled.class
+RoomSystem\PolicyHandler.class
+RoomSystem\Demerited.class
+RoomSystem\Application.class
+RoomSystem\Reserved.class
+RoomSystem\MeetingRoomStatus.class
+RoomSystem\config\kafka\KafkaProcessor.class
+RoomSystem\RoomDelete.class
